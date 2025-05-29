@@ -1,4 +1,3 @@
-# Smart-DataOps-AWS
 # 🚀 Smart DataOps - Real-Time ETL & ML on AWS
 
 This project implements a robust real-time data pipeline on AWS to process e-commerce transactions, segment customers, and deliver actionable insights.
